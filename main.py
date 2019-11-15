@@ -1,5 +1,3 @@
-# Created:  2019-08-08
-# Updated:  2019-08-12
 # Creator:  Ryan Hawkins
 
 # Title:  Millionaire Investor
@@ -10,9 +8,6 @@ Classes
     Accounts
         Banks
         Stocks
-
-
-
 """
 
 import random
